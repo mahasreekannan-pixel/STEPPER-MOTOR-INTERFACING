@@ -79,3 +79,5 @@ DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ## RESULT
 
 Thus, the assembly language program for rotating the stepper motor in both clockwise and anticlockwise directions was written and verified.
+
+Digital marketing uses online channels and electronic devices to promote products, build brand awareness, and connect with specific audiences. It relies on real-time data and targeted advertising to reach consumers where they spend their time, making it one of the most effective ways to grow modern businesses.
